@@ -1,3 +1,9 @@
 [submodule "themes/hugo-whisper-theme"]
 	path = themes/hugo-whisper-theme
 	url = https://github.com/zerostaticthemes/hugo-whisper-theme.git
+[submodule "themes/hugo-digital-garden-theme"]
+	path = themes/hugo-digital-garden-theme
+	url = https://github.com/paulmartins/hugo-digital-garden-theme.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/

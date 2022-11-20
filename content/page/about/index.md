@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Hallo, Saya Bagus, Selamat datang di blog saya!.
+date: '2022-11-20'
 aliases:
-  - about-us
-  - about-hugo
+  - about-me
+  - about-bagus
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-11-20'
 menu:
     main: 
         weight: -90
